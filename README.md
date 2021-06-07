@@ -6,6 +6,8 @@ The Colorado Board of Elections was seeking the election results and we're inter
 - A complete list of candidates who received votes
 - Percentage of votes each candidate won
 - The winner of the election based on popular vote
+- County turnout
+- County with Highest turnout
 
 ## Resources
 Data Source: election_results.csv
